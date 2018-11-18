@@ -3,7 +3,7 @@
 
 ---
 
-Obrigado por participar do desafio iOS da 
+Obrigado por participar do desafio iOS da Popcode Mobile Solutions
 
 ## Afinal, o que é esse desafio?
 
